@@ -1,0 +1,30 @@
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.Blog{
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px;
+}
+.next{
+    border: 2px solid yellowgreen;
+    margin: 20px;
+    display: inline;
+}
+li{
+    display: inline;
+}
+.header{
+    height: 300px;
+    color: rgb(15, 129, 228);
+    background-image: url(hd-wallpaper-4106667_1920.jpg);
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-size: contain;background-size: 300px 300px;
+}
